@@ -1,0 +1,33 @@
+div.minor h1, div.minor h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+div.main {
+  background-color: tan;
+}
+
+div.main h1 {
+  color: #ddd;
+}
+
+div.main h2 {
+  background-color: #964b00;
+}
+
+div.main h3 {
+  color: #964b00;
+}
+
+div.minor {
+  background-color: silver;
+}
+
+div.minor h1 {
+  text-decoration: underline;
+}
+
+div.minor h2 {
+  text-decoration: line-through;
+}
+/*# sourceMappingURL=main.css.map */
